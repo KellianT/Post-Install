@@ -18,7 +18,7 @@ apt-get est un outil logiciel à utiliser en lignes de commandes(terminal), il p
 
 
 apt-get update : 
-permet l'installation de mises à jour.
+lorsqu'on exécute la commande de mise à jour, il télécharge les informations sur le paquet à partir d'Internet pour tous les paquets.
 
 
 snap install:
