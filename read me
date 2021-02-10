@@ -1,0 +1,41 @@
+Read Me !!!!
+
+
+
+Explication de la commande ECHO : 
+La commande echo permet simplement d'afficher une ligne
+
+
+
+Explication de la commande SUDO : 
+Sudo s'utilise dans le terminal, elle permet d'accorder aux utilisateurs la possibilité d'installer des programmes en tant qu'administrateur.
+
+
+
+apt-get est un outil logiciel à utiliser en lignes de commandes(terminal), il permet d'installer et de désinstaller des paquets en provenance d'un dépôt APT
+
+
+
+
+apt-get update : 
+permet l'installation de mises à jour.
+
+
+snap install:
+permet d'aller chercher une application dans le store et de l'installer
+
+
+Logiciels installés : 
+
+Discord : dans un soucis de communication
+
+Visual Studio Code : Environnement de code
+
+Python : Importer le langage 
+
+htop / glances : logiciels de monitoring
+
+
+
+
+
